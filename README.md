@@ -127,5 +127,5 @@ Use the command below to deploy all Kubernetes resources from the k8s directory:
 # Access the Dashboard
 Once all pods and services are running, access the dashboard in a browser using the address below:
 
-'http://<VM-IP>:30080'
-replace <VM-IP> with the IP address of your virtual machine
+'http://(VM-IP):30080'
+replace (VM-IP) with the IP address of your virtual machine
